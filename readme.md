@@ -1,4 +1,4 @@
-# Covid-Reconnoiter - Social Distancing, Crowd Density and Mask Detector
+# Covid-Reconnoiter (Social Distancing, Crowd Density and Mask Detector)
 ## [Covid-Reconnoiter WebApp](https://coviwarn.herokuapp.com/)  
 --> It is bit slow due to memory and RAM issues of heroku server.
 
