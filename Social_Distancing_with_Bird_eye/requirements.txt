@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+clint
+cmake
+streamlit_drawable_canvas
+requests
+Pillow
